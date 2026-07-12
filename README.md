@@ -1,7 +1,5 @@
 # 🚀 Investment Opportunities in the Global Space Economy
 
-![Investment Ranking](images/top15.png)
-
 A data-driven investment analysis project that combines SQL, Python and financial data to identify attractive publicly listed companies across the global space economy.
 
 This project builds a multi-factor investment scoring model by combining financial performance with industry positioning rather than relying on a single valuation metric.
